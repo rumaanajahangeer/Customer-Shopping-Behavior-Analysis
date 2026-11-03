@@ -155,8 +155,3 @@ An interactive dashboard was built to present the insights visually for business
 
 ---
 
-## 👤 Author
-
-**Dheeraj Gupta**
-
-<p align="center">⭐ If you found this project useful, consider giving it a star!</p>
